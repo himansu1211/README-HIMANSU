@@ -62,8 +62,7 @@
 
 # 📊 GitHub Stats
 <div align="center">
-  
-  ![Himansu’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=himansu1211&show_icons=true&theme=tokyonight)  
+    
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himansu1211&layout=compact&theme=tokyonight)
 
 </div>
