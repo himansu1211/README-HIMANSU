@@ -8,8 +8,8 @@
 - 🌍 **Location:** Odisha, India  
 - 📧 **Email:** [himansuk1211@gmail.com](mailto:himansuk1211@gmail.com)  
 - 💬 Passionate about **Web Development, Artificial Intelligence, Cloud Computing, and Blockchain**.  
-- 🎯 **Career Objective:**  
-  Aspiring Computer Science student passionate about web development, artificial intelligence, and technology-driven innovation. Dedicated to continuous learning, hands-on coding, and creating real-world digital solutions. Seeking to explore and grow as a developer while deepening my understanding of **AI, GenAI, Cloud Computing, and Blockchain**.
+- 🎯 **Career Objective:**
+  web development, artificial intelligence, and technology-driven innovation. Dedicated to continuous learning, hands-on coding, and creating real-world digital solutions. Seeking to explore and grow as a developer while deepening my understanding of **AI, GenAI, Cloud Computing, and Blockchain**.
 
 ---
 
