@@ -29,12 +29,8 @@
 ---
 
 # 🧾 Certifications
-✅ **Responsive Web Design Developer Certification** – freeCodeCamp  
-✅ **Front End Development Libraries Certification** – freeCodeCamp  
+✅ **Responsive Web Design Developer Certification** – freeCodeCamp   
 ✅ **Fundamentals of Machine Learning and Artificial Intelligence** – AWS Training & Certification  
-✅ **Zero to Python Hero: Code Smart with AI** – LetsUpgrade & ITM Edutech  
-✅ **JavaScript Bootcamp** – LetsUpgrade & ITM Edutech  
-✅ **Prompt Engineering Bootcamp** – LetsUpgrade & ITM Edutech  
 ✅ **Introduction to Generative AI and Agents** – Microsoft Learn  
 ✅ **Describe the Benefits of Using Cloud Services** – Microsoft Learn  
 
