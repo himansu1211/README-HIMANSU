@@ -38,7 +38,7 @@
 ✅ **Introduction to Generative AI and Agents** – Microsoft Learn  
 ✅ **Describe the Benefits of Using Cloud Services** – Microsoft Learn  
 
-📜 [View All Certificates](https://drive.google.com/file/d/19TSMJF8XXrgW0nGVQ11b97qQEmLzIy8t/view?usp=drivesdk)
+📜 [View All Certificates](https://drive.google.com/drive/folders/1suLH5X9grYBqIW2CHJq6h3No2tVfKdW_?usp=drive_link)
 
 ---
 
