@@ -28,7 +28,7 @@
 
 ---
 
-# 🧾 Certifications
+# 🧾 Accreditations
 ✅ **Responsive Web Design Developer Certification** – freeCodeCamp   
 ✅ **Fundamentals of Machine Learning and Artificial Intelligence** – AWS Training & Certification  
 ✅ **Introduction to Generative AI and Agents** – Microsoft Learn  
