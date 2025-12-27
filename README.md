@@ -1,7 +1,7 @@
 <!-- Header -->
 <h1 align="center">Hi👋, I’m Himansu Kumar Sahu</h1>
-<h3 align="center">💻 Aspiring Full Stack Developer | AI Enthusiast | Tech Explorer</h3>
-
+<h3 align="center">💻 Full Stack Developer | AI Enthusiast | Tech Explorer</h3>
+ 
 ---
 
 # 📍 About Me
