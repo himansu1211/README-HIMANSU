@@ -8,9 +8,7 @@
 - 🌍 **Location:** Odisha, India  
 - 📧 **Email:** [himansuk1211@gmail.com](mailto:himansuk1211@gmail.com)
 - 📧 **Website:** [https://portfolio-website](https://himansu-portfolioweb.vercel.app/) 
-- 💬 Passionate about **Web Development, Artificial Intelligence, Cloud Computing, and Blockchain**.  
-- 🎯 **Career Objective:**
-  web development, artificial intelligence, and technology-driven innovation. Dedicated to continuous learning, hands-on coding, and creating real-world digital solutions. Seeking to explore and grow as a developer while deepening my understanding of **AI, GenAI, Cloud Computing, and Blockchain**.
+- 💬 Passionate about **Web Development, Artificial Intelligence, Cloud Computing, GenAI and App Development**.  
 
 ---
 
@@ -29,13 +27,7 @@
 
 ---
 
-# 🧾 Accreditations
-✅ **Responsive Web Design Developer Certification** – freeCodeCamp   
-✅ **Fundamentals of Machine Learning and Artificial Intelligence** – AWS Training & Certification  
-✅ **Introduction to Generative AI and Agents** – Microsoft Learn  
-✅ **Describe the Benefits of Using Cloud Services** – Microsoft Learn  
-
-📜 [View All Certificates](https://drive.google.com/drive/folders/1suLH5X9grYBqIW2CHJq6h3No2tVfKdW_?usp=drive_link)
+# 🧾 Accreditations: [View All Certificates](https://drive.google.com/drive/folders/1suLH5X9grYBqIW2CHJq6h3No2tVfKdW_?usp=drive_link)
 
 ---
 
@@ -53,11 +45,3 @@
 </p>
 
 ---
-
-# 🧠 Hobbies & Interests
-- 🧩 Coding and exploring emerging technologies  
-- 🧠 Solving logical puzzles and challenges  
-- 🌱 Constantly learning new tech trends  
-
----
-
